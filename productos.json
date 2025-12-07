@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "modelo": "iPhone 11",
+        "capacidad": "64 GB",
+        "color": "Negro",
+        "precio": 520000,
+        "stock": 3
+    },
+    {
+        "id": 2,
+        "modelo": "iPhone 11",
+        "capacidad": "128 GB",
+        "color": "Blanco",
+        "precio": 560000,
+        "stock": 2
+    },
+    {
+        "id": 3,
+        "modelo": "iPhone 13",
+        "capacidad": "128 GB",
+        "color": "Midnight",
+        "precio": 780000,
+        "stock": 2
+    },
+    {
+        "id": 4,
+        "modelo": "iPhone 13",
+        "capacidad": "256 GB",
+        "color": "BLUE",
+        "precio": 860000,
+        "stock": 1
+    },
+    {
+        "id": 5,
+        "modelo": "iPhone 14 Pro",
+        "capacidad": "128 GB",
+        "color": "Space Black",
+        "precio": 1100000,
+        "stock": 1
+    }
+]
